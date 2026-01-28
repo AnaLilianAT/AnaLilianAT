@@ -1,4 +1,4 @@
-# Hola! Oi! Hello! :)
+# Hi there! :)
 
 I'm a Computer Science student at **UFSM** with a strong interest in **Artificial Intelligence**.
 
